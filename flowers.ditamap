@@ -44,4 +44,5 @@
       keys="flowers.panicle" print="yes"/>
   </topichead>
   <topicref href="topics/copyright.dita"/>
+  <topicref href="topics/copyright.dita"/>
 </map>
