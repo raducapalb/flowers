@@ -1,71 +1,40 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
-<topic id="care">
-    <title/>
-    <shortdesc>ABCWhen caring for your flower garden you want to feed your plants properly, control
-        pests and weeds.</shortdesc>
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "http://docs.oasis-open.org/dita/v1.1/OS/dtd/topic.dtd">
+<topic id="topic-1">
+    <title>++++++++++++++++++++++++++++++++++++++Chrysanthemum</title>
     <body>
-        <p>When caring for your flower garden you want to feed your plants properly, control pests
-            and weeds. Good soil is a must to successful gardening, landscaping, and healthy
-            flowers. You have to
-            <indexterm>tasks<indexterm>preparation</indexterm></indexterm>balance the soil structure
-            with nutrients and regulate the pH to cover your plants'
-            needs.<?oxy_comment_start author="Mary" timestamp="20120510T121702+0300" comment="Let&apos;s add information about fertilizers."?><?oxy_comment_start author="John" timestamp="20120510T121814+0300" comment="We must include information about fertilizers impact to the environment." mid="1"?>
-            And above all, remember that many flower gardens fail because they just don't get enough
-            of your attention.<?oxy_comment_end?><?oxy_comment_end mid="1"?></p>
-        <p>
-            <table frame="none">
-                <title>flowers</title>
-                <tgroup cols="3">
-                    <colspec colname="c1" colnum="1" colwidth="171.0pt"/>
-                    <colspec colname="c2" colnum="2" colwidth="99.0pt"/>
-                    <colspec colname="newCol3" colnum="3" colwidth="200px"/>
-                    <thead>
-                        <row>
-                            <entry>Flower</entry>
-                            <entry>Type</entry>
-                            <entry>Soil</entry>
-                        </row>
-                    </thead>
-                    <tbody>
-                        <row>
-                            <entry>Chrysanthemum</entry>
-                            <entry>perennial</entry>
-                            <entry>well drained</entry>
-                        </row>
-                        <row>
-                            <entry>Gardenia</entry>
-                            <entry>perennial</entry>
-                            <entry>acidic</entry>
-                        </row>
-                        <row>
-                            <entry>Gerbera</entry>
-                            <entry>annual</entry>
-                            <entry>sandy, well-drained</entry>
-                        </row>
-                        <row>
-                            <entry>Iris</entry>
-                            <entry>perennial</entry>
-                            <entry>slightly acidic</entry>
-                        </row>
-                        <row>
-                            <entry>Lilac</entry>
-                            <entry>perennial</entry>
-                            <entry>alkaline</entry>
-                        </row>
-                        <row>
-                            <entry>Salvia</entry>
-                            <entry>perennial</entry>
-                            <entry>average</entry>
-                        </row>
-                        <row>
-                            <entry>Snowdrop</entry>
-                            <entry>perennial</entry>
-                            <entry>humus-rich</entry>
-                        </row>
-                    </tbody>
-                </tgroup>
-            </table>
-        </p>
+        <p><i>From Wikipedia, the free encyclopedia.</i></p>
+        <p><b>Chrysanthemums</b><indexterm>flowers<indexterm>autumn<indexterm>chrysanthemums</indexterm></indexterm></indexterm>,
+            often called 'mums', are a <xref keyref="flowers.genus" format="dita"
+                >genus</xref> (<b>Chrysanthemum</b>) of about 30 species of <xref
+                keyref="flowers.perennial" format="dita">perennial</xref> flowering
+            plants in the family Asteraceae, native to Asia and northeastern Europe.</p>
+        <p><image href="../../images/Chrysanthemums.jpg" scale="200"/></p>
+        <p>The genus once included many more species, but was split several decades ago into several
+            genera; the naming of the genera has been contentious, but a ruling of the International
+            Code of Botanical Nomenclature in 1999 resulted in the defining species of the genus
+            being changed to <b>Chrysanthemum indicum</b>, thereby restoring the economically
+            important florist's chrysanthemum to the genus <b>Chrysanthemum</b>. These species were,
+            after the splitting of the genus but before the ICBN ruling, commonly treated under the
+            genus name <b>Dendranthema</b>.</p>
+        <p><b>Chrysanthemums</b> were cultivated in China as a flowering herb as far back as the
+            15th century BC. An ancient Chinese city was named Ju-Xian, meaning "<i>chrysanthemum
+                city</i>". The plant is particularly significant during the Double Ninth Festival.
+            The flower was introduced into Japan probably in the 8th century AD, and the Emperor
+            adopted the flower as his official seal. There is a "<i>Festival of Happiness</i>" in
+            Japan that celebrates the flower.</p>
+        <p>The flower was brought to Europe in the 17th century. Linnaeus named it from the Greek
+            word <i>chrysous</i>, golden (the colour of the original flowers), and -<i>anthemon</i>,
+            meaning flower.</p>
+        <p><b>Chrysanthemums</b> are broken into two basic groups, Garden Hardy and Exhibition.
+            Garden hardy mums are perennials capable of being wintered over in the ground in most
+            northern latitudes. Exhibition varieties are not usually as sturdy. Garden hardies are
+            defined by their ability to produce an abundance of small blooms with little if any
+            mechanical assistance (ie. staking) and withstanding wind and rain. Exhibition varieties
+            on the other hand require staking, over-wintering in a relatively dry cool environment,
+            sometimes with the addition of night lights.</p>
     </body>
+    <related-links>
+        <link href="salvia.dita#topic-1"/>
+    </related-links>
 </topic>
